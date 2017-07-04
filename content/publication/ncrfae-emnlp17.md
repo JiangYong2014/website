@@ -1,6 +1,6 @@
 +++
 #abstract = "In this paper, we propose a novel approach to unsupervised dependency parsing that uses a neural model to predict grammar rule probabilities based on distributed representation of POS tags. Our experiments show that our approach outperforms previous approaches utilizing POS correlations and is competitive with recent state-of-the-art approaches on nine different languages."
-authors = ["Wenjuan Han", "Yong Jiang", "Kewei Tu"]
+authors = ["Xiao Zhang", "Yong Jiang", "Hao Peng", "Kewei Tu", "Dan Goldwasser"]
 date = "2017-07-01"
 image_preview = ""
 math = true
