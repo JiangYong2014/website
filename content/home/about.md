@@ -31,7 +31,7 @@ weight = 1
 [[education.courses]]
   course = "BSc in Geographical Information System"
   institution = "Hefei University of Technology"
-  year = 2010
+  year = 2014
  
 +++
 
