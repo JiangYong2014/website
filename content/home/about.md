@@ -37,4 +37,4 @@ weight = 1
 
 # Biography
 
-I am currently a third-year graduate student of ShanghaiTech University. I am interested in machine learning and natural language processing. My current reseach mainly focuses on learning latent structure of modern data with weak supervision.
+I am currently a third-year graduate student of ShanghaiTech University, advised by [Prof. Kewei Tu](http://sist.shanghaitech.edu.cn/faculty/tukw/). I am interested in machine learning and natural language processing. My current reseach mainly focuses on learning latent structure of modern data with weak supervision.

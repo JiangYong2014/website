@@ -14,4 +14,4 @@ weight = 60
 
 +++
 
-- From June 2017 to now, I intern at WeChat AI team working on some research problems related to ChatBot.
+- From June 2017 to September 2017, I will intern at WeChat AI team working on some research problems related to ChatBot.
